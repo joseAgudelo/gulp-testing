@@ -1,0 +1,21 @@
+{
+  "name": "gulp-testing",
+  "description": "Testing mode on fire!",
+  "main": "index.js",
+  "authors": [
+    "joseAgudelo <joseagu19@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/joseAgudelo/gulp-testing",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gsap": "greensock-js#^1.10.2",
+    "bootstrap": "^3.3.7"
+  }
+}
